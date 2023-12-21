@@ -1,11 +1,8 @@
-# Halo semua! 
-
 <h1 align="center">
   <br>
   <a href="#"><img src='https://github.com/Cashcue/.github/edit/main/logo.jpg' alt="Markdownify" width="200"></a>
   <br>
-  On Demand Ambulance
-  <br>
+Cashcue  <br>
 
 ### Background
 CashCue is on a mission to revolutionize personal finance management by empowering users with comprehensive insights into their financial behaviors. Through innovative features like behavioral financial analysis, payment scan for efficient expense tracking, and predictive financial insights powered by AI, CashCue aims to provide users with a user-friendly and intuitive platform. Beyond tracking, the app is committed to enhancing financial literacy through personalized education. The planned Global Community tab fosters a collaborative space, creating a community of users supporting each other in their financial journeys. CashCue seeks to redefine the way individuals manage their finances, promoting financial empowerment and informed decision-making.
